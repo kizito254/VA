@@ -1,0 +1,136 @@
+Virtual Assistant Data Entry & Marketplace Listing Portfolio
+
+**Author:** Kizito  
+**Role Focus:** Virtual Assistant | Data Entry Specialist | Marketplace Listing Support
+
+---
+
+#1) Introduction
+
+This portfolio showcases practical Virtual Assistant experience in data entry, Facebook Marketplace listing management, cross-platform listing transfer, and day-to-day administrative support. The samples below demonstrate how product data is captured, organized, and published with consistency, accuracy, and attention to detail to support business operations and online sales growth.
+
+---
+
+#2) Sample Project 1: Facebook Marketplace Listing Transfer
+
+##Task Overview
+The task involves copying a product listing from Facebook Marketplace and transferring it into a structured website product page format while preserving all key details such as title, price, condition, and description.
+
+##Original Marketplace Listing
+- **Product Title:** Samsung Galaxy S21 128GB (Unlocked) – Phantom Gray
+- **Price:** $320
+- **Location:** Austin, TX
+- **Condition:** Used – Like New
+- **Description:**
+  Selling my Samsung Galaxy S21, 128GB, unlocked for all carriers. Phone is in excellent condition with no cracks or major scratches. Battery health is strong and all functions work perfectly. Includes original charging cable and a protective case. Local pickup preferred.
+
+##Website Listing Entry
+- **Product Name:** Samsung Galaxy S21 128GB Unlocked Smartphone (Phantom Gray)
+- **Category:** Electronics > Mobile Phones
+- **Price:** USD 320.00
+- **Condition:** Like New (Pre-Owned)
+- **Full Product Description:**
+  Samsung Galaxy S21 with 128GB storage in Phantom Gray, fully unlocked and compatible with major carriers. Device is pre-owned and maintained in like-new condition, with no screen cracks and minimal signs of use. Battery performance remains strong, and all core features (camera, speakers, charging port, and buttons) are fully functional. Includes charging cable and protective case. Available for local pickup in Austin, Texas.
+- **Tags:** samsung, galaxy s21, unlocked phone, smartphone, 128gb, phantom gray, pre-owned
+- **SKU:** MOB-SAM-S21-128-PG-ATX-001
+
+##Accuracy Notes
+To ensure accuracy, each field from the original Marketplace listing was mapped to a matching website field and reviewed line-by-line. Price format was standardized (USD with decimals), condition wording was normalized for CMS consistency, and descriptive details (carrier status, accessories, pickup location) were retained to prevent information loss.
+
+---
+
+#3) Sample Project 2: Product Data Entry Spreadsheet
+
+| Product Name | Category | Price | Condition | Location | Listing Status | Notes |
+|---|---|---:|---|---|---|---|
+| IKEA MALM Queen Bed Frame | Furniture | $210 | Used - Good | Dallas, TX | Active | Includes slats |
+| Sony WH-1000XM4 Headphones | Electronics | $185 | Used - Like New | Miami, FL | Active | Original case included |
+| KitchenAid Stand Mixer 5Qt | Home Appliances | $260 | Used - Good | Phoenix, AZ | Pending | Minor cosmetic marks |
+| Trek Marlin 6 Mountain Bike | Sports & Outdoors | $540 | Used - Good | Denver, CO | Active | Size M frame |
+| Canon EOS Rebel T7 Kit | Electronics | $390 | Used - Like New | Orlando, FL | Sold | Includes 18-55mm lens |
+| Wooden Dining Table (6-Seater) | Furniture | $320 | Used - Fair | Charlotte, NC | Active | Pickup only |
+| Apple Watch Series 7 45mm | Electronics | $240 | Used - Like New | Seattle, WA | Active | Charger included |
+| Dyson V10 Cordless Vacuum | Home Appliances | $280 | Used - Good | San Diego, CA | Pending | New filter installed |
+| Lenovo ThinkPad T480 | Computers | $350 | Refurbished | Chicago, IL | Active | 16GB RAM, 512GB SSD |
+| Patio Rattan Chair Set | Garden & Outdoor | $170 | Used - Good | Tampa, FL | Active | Set of 3 |
+| Nikon D5600 Camera Body | Electronics | $330 | Used - Good | Nashville, TN | Sold | Body only |
+| Baby Jogger City Mini GT | Baby & Kids | $150 | Used - Good | Atlanta, GA | Active | Clean, fold works well |
+
+Organized spreadsheets help businesses manage listings efficiently by centralizing product information, reducing duplication errors, enabling quick status tracking (Active/Pending/Sold), and improving coordination between sales, inventory, and customer support workflows.
+
+---
+
+#4) Sample Project 3: Bulk Marketplace Listing Entry
+
+| Product Title | Category | Price | Condition | Short Description | Listing Status |
+|---|---|---:|---|---|---|
+| HP Envy 6055e Wireless Printer | Office Equipment | $95 | Used - Good | All-in-one printer with scanner and Wi-Fi printing. | Active |
+| ASUS 24" Gaming Monitor 144Hz | Electronics | $140 | Used - Like New | Smooth 144Hz display, HDMI + DisplayPort. | Active |
+| Wooden Office Desk 47-inch | Furniture | $120 | Used - Good | Compact desk ideal for home office setups. | Active |
+| Logitech MX Master 3 Mouse | Electronics | $70 | Used - Like New | Ergonomic wireless mouse with USB receiver. | Sold |
+| Instant Pot Duo 6Qt | Home Appliances | $65 | Used - Good | Multi-cooker with pressure and slow-cook modes. | Active |
+| DeWalt 20V Drill Kit | Tools | $110 | Used - Good | Cordless drill with battery and charger included. | Pending |
+| Nike Air Zoom Pegasus 39 (Men 10) | Fashion | $55 | Used - Good | Lightweight running shoes, clean condition. | Active |
+| Samsung 50" 4K Smart TV | Electronics | $300 | Used - Good | UHD TV with remote, great picture quality. | Pending |
+| Keurig K-Classic Coffee Maker | Home Appliances | $45 | Used - Fair | Single-serve coffee maker, fully working. | Active |
+| iPad 9th Gen 64GB Wi-Fi | Electronics | $240 | Used - Like New | Tablet in excellent condition with charger. | Sold |
+| Graco Convertible Car Seat | Baby & Kids | $85 | Used - Good | Adjustable seat for toddler to booster stages. | Active |
+| Coleman 4-Person Camping Tent | Sports & Outdoors | $60 | Used - Good | Waterproof tent, includes carry bag and stakes. | Active |
+| Ring Video Doorbell 3 | Smart Home | $75 | Used - Like New | Smart doorbell with motion alerts and chime. | Active |
+| Shark Navigator Lift-Away Vacuum | Home Appliances | $90 | Used - Good | Strong suction vacuum for carpet and hard floors. | Pending |
+| Guitar Starter Pack (Acoustic) | Musical Instruments | $100 | Used - Good | Acoustic guitar with tuner, strap, and bag. | Active |
+
+Bulk listing tasks are handled quickly and accurately by using standardized templates, consistent field formatting, and a checklist-based review process. This approach minimizes input errors, speeds up publishing, and keeps listing quality consistent across high-volume uploads.
+
+---
+
+#5) Sample Project 4: Listing Transfer Workflow
+
+##Workflow for Transferring Listings Between Platforms
+1. Open the source marketplace listing.
+2. Copy product title, price, condition, and description.
+3. Download or collect listing images.
+4. Open the destination website CMS product form.
+5. Paste product details into the correct fields.
+6. Assign product category and relevant tags.
+7. Upload and arrange images in display order.
+8. Add SKU, inventory details, and listing status.
+9. Publish or save as draft based on client preference.
+10. Perform a final quality check for completeness and formatting.
+
+This workflow ensures repeatable quality, faster turnaround, and consistent listing standards across platforms.
+
+---
+
+#6) Sample Project 5: Virtual Assistant Case Study
+
+##Client Problem
+A client needed a large number of Facebook Marketplace listings transferred to their website but lacked the time and internal capacity to process entries consistently.
+
+##Solution
+As the assigned Virtual Assistant, I created a transfer tracker, grouped listings by category, and applied a structured data entry template to ensure uniform formatting. Each listing was reviewed before publishing to maintain data accuracy and brand consistency.
+
+##Tasks Completed
+- Data entry
+- Listing transfer
+- Product categorization
+- Administrative support and progress reporting
+
+##Results
+The client saved significant administrative time, maintained an organized and searchable product catalog, and improved listing consistency across sales channels. The structured process also reduced revisions and made ongoing listing updates easier.
+
+---
+
+#7) Tools Used
+
+- Google Sheets
+- Microsoft Excel
+- Web browsers (Chrome/Firefox)
+- WordPress or e-commerce CMS platforms
+- Communication tools (email, live chat, project messaging apps)
+
+---
+
+#8) Conclusion
+
+This portfolio demonstrates dependable Virtual Assistant support with strong data entry accuracy, careful listing transfer, and reliable administrative execution. I bring detail-oriented, organized, and client-focused support to help businesses keep their online listings professional, complete, and up to date.

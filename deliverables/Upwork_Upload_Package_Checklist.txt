@@ -1,0 +1,13 @@
+Upwork Upload Package (Prepared)
+
+Included files:
+1. Virtual_Assistant_Portfolio_Kizito.pdf (primary portfolio file)
+2. Virtual_Assistant_Portfolio_Kizito.html (web-viewable version)
+3. Virtual_Assistant_Portfolio_Kizito.rtf (editable Word-compatible file)
+4. Virtual_Assistant_Portfolio_Kizito.txt (plain text copy)
+5. Virtual_Assistant_Data_Entry_Marketplace_Listing_Portfolio.md (source)
+
+Suggested upload order on Upwork:
+- Upload PDF first as the main portfolio sample.
+- Add HTML/RTF if clients request editable or preview formats.
+- Keep TXT for fast copy/paste proposals.
