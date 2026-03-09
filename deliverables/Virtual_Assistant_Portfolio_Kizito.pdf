@@ -1,0 +1,476 @@
+%PDF-1.4
+%
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 2434 >>
+stream
+BT
+/F1 11 Tf
+1 0 0 1 54 738 Tm
+15 TL
+(Virtual Assistant Data Entry & Marketplace Listing Portfolio) Tj
+T*
+() Tj
+T*
+(**Author:** Kizito) Tj
+T*
+(**Role Focus:** Virtual Assistant | Data Entry Specialist | Marketplace Listing Support) Tj
+T*
+() Tj
+T*
+(---) Tj
+T*
+() Tj
+T*
+(#1\) Introduction) Tj
+T*
+() Tj
+T*
+(This portfolio showcases practical Virtual Assistant experience in data entry, Facebook) Tj
+T*
+(Marketplace listing management, cross-platform listing transfer, and day-to-day administrative) Tj
+T*
+(support. The samples below demonstrate how product data is captured, organized, and published) Tj
+T*
+(with consistency, accuracy, and attention to detail to support business operations and online) Tj
+T*
+(sales growth.) Tj
+T*
+() Tj
+T*
+(---) Tj
+T*
+() Tj
+T*
+(#2\) Sample Project 1: Facebook Marketplace Listing Transfer) Tj
+T*
+() Tj
+T*
+(##Task Overview) Tj
+T*
+(The task involves copying a product listing from Facebook Marketplace and transferring it into) Tj
+T*
+(a structured website product page format while preserving all key details such as title, price,) Tj
+T*
+(condition, and description.) Tj
+T*
+() Tj
+T*
+(##Original Marketplace Listing) Tj
+T*
+(- **Product Title:** Samsung Galaxy S21 128GB \(Unlocked\) ? Phantom Gray) Tj
+T*
+(- **Price:** $320) Tj
+T*
+(- **Location:** Austin, TX) Tj
+T*
+(- **Condition:** Used ? Like New) Tj
+T*
+(- **Description:**) Tj
+T*
+(  Selling my Samsung Galaxy S21, 128GB, unlocked for all carriers. Phone is in excellent) Tj
+T*
+(condition with no cracks or major scratches. Battery health is strong and all functions work) Tj
+T*
+(perfectly. Includes original charging cable and a protective case. Local pickup preferred.) Tj
+T*
+() Tj
+T*
+(##Website Listing Entry) Tj
+T*
+(- **Product Name:** Samsung Galaxy S21 128GB Unlocked Smartphone \(Phantom Gray\)) Tj
+T*
+(- **Category:** Electronics > Mobile Phones) Tj
+T*
+(- **Price:** USD 320.00) Tj
+T*
+(- **Condition:** Like New \(Pre-Owned\)) Tj
+T*
+(- **Full Product Description:**) Tj
+T*
+(  Samsung Galaxy S21 with 128GB storage in Phantom Gray, fully unlocked and compatible with) Tj
+T*
+(major carriers. Device is pre-owned and maintained in like-new condition, with no screen cracks) Tj
+T*
+(and minimal signs of use. Battery performance remains strong, and all core features \(camera,) Tj
+T*
+(speakers, charging port, and buttons\) are fully functional. Includes charging cable and) Tj
+T*
+(protective case. Available for local pickup in Austin, Texas.) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Page /Parent 12 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+4 0 obj
+<< /Length 2664 >>
+stream
+BT
+/F1 11 Tf
+1 0 0 1 54 738 Tm
+15 TL
+(- **Tags:** samsung, galaxy s21, unlocked phone, smartphone, 128gb, phantom gray, pre-owned) Tj
+T*
+(- **SKU:** MOB-SAM-S21-128-PG-ATX-001) Tj
+T*
+() Tj
+T*
+(##Accuracy Notes) Tj
+T*
+(To ensure accuracy, each field from the original Marketplace listing was mapped to a matching) Tj
+T*
+(website field and reviewed line-by-line. Price format was standardized \(USD with decimals\),) Tj
+T*
+(condition wording was normalized for CMS consistency, and descriptive details \(carrier status,) Tj
+T*
+(accessories, pickup location\) were retained to prevent information loss.) Tj
+T*
+() Tj
+T*
+(---) Tj
+T*
+() Tj
+T*
+(#3\) Sample Project 2: Product Data Entry Spreadsheet) Tj
+T*
+() Tj
+T*
+(| Product Name | Category | Price | Condition | Location | Listing Status | Notes |) Tj
+T*
+(|---|---|---:|---|---|---|---|) Tj
+T*
+(| IKEA MALM Queen Bed Frame | Furniture | $210 | Used - Good | Dallas, TX | Active | Includes) Tj
+T*
+(slats |) Tj
+T*
+(| Sony WH-1000XM4 Headphones | Electronics | $185 | Used - Like New | Miami, FL | Active |) Tj
+T*
+(Original case included |) Tj
+T*
+(| KitchenAid Stand Mixer 5Qt | Home Appliances | $260 | Used - Good | Phoenix, AZ | Pending |) Tj
+T*
+(Minor cosmetic marks |) Tj
+T*
+(| Trek Marlin 6 Mountain Bike | Sports & Outdoors | $540 | Used - Good | Denver, CO | Active |) Tj
+T*
+(Size M frame |) Tj
+T*
+(| Canon EOS Rebel T7 Kit | Electronics | $390 | Used - Like New | Orlando, FL | Sold | Includes) Tj
+T*
+(18-55mm lens |) Tj
+T*
+(| Wooden Dining Table \(6-Seater\) | Furniture | $320 | Used - Fair | Charlotte, NC | Active |) Tj
+T*
+(Pickup only |) Tj
+T*
+(| Apple Watch Series 7 45mm | Electronics | $240 | Used - Like New | Seattle, WA | Active |) Tj
+T*
+(Charger included |) Tj
+T*
+(| Dyson V10 Cordless Vacuum | Home Appliances | $280 | Used - Good | San Diego, CA | Pending |) Tj
+T*
+(New filter installed |) Tj
+T*
+(| Lenovo ThinkPad T480 | Computers | $350 | Refurbished | Chicago, IL | Active | 16GB RAM,) Tj
+T*
+(512GB SSD |) Tj
+T*
+(| Patio Rattan Chair Set | Garden & Outdoor | $170 | Used - Good | Tampa, FL | Active | Set of) Tj
+T*
+(3 |) Tj
+T*
+(| Nikon D5600 Camera Body | Electronics | $330 | Used - Good | Nashville, TN | Sold | Body only) Tj
+T*
+(|) Tj
+T*
+(| Baby Jogger City Mini GT | Baby & Kids | $150 | Used - Good | Atlanta, GA | Active | Clean,) Tj
+T*
+(fold works well |) Tj
+T*
+() Tj
+T*
+(Organized spreadsheets help businesses manage listings efficiently by centralizing product) Tj
+T*
+(information, reducing duplication errors, enabling quick status tracking \(Active/Pending/Sold\),) Tj
+T*
+(and improving coordination between sales, inventory, and customer support workflows.) Tj
+T*
+() Tj
+T*
+(---) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 12 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 2776 >>
+stream
+BT
+/F1 11 Tf
+1 0 0 1 54 738 Tm
+15 TL
+() Tj
+T*
+(#4\) Sample Project 3: Bulk Marketplace Listing Entry) Tj
+T*
+() Tj
+T*
+(| Product Title | Category | Price | Condition | Short Description | Listing Status |) Tj
+T*
+(|---|---|---:|---|---|---|) Tj
+T*
+(| HP Envy 6055e Wireless Printer | Office Equipment | $95 | Used - Good | All-in-one printer) Tj
+T*
+(with scanner and Wi-Fi printing. | Active |) Tj
+T*
+(| ASUS 24" Gaming Monitor 144Hz | Electronics | $140 | Used - Like New | Smooth 144Hz display,) Tj
+T*
+(HDMI + DisplayPort. | Active |) Tj
+T*
+(| Wooden Office Desk 47-inch | Furniture | $120 | Used - Good | Compact desk ideal for home) Tj
+T*
+(office setups. | Active |) Tj
+T*
+(| Logitech MX Master 3 Mouse | Electronics | $70 | Used - Like New | Ergonomic wireless mouse) Tj
+T*
+(with USB receiver. | Sold |) Tj
+T*
+(| Instant Pot Duo 6Qt | Home Appliances | $65 | Used - Good | Multi-cooker with pressure and) Tj
+T*
+(slow-cook modes. | Active |) Tj
+T*
+(| DeWalt 20V Drill Kit | Tools | $110 | Used - Good | Cordless drill with battery and charger) Tj
+T*
+(included. | Pending |) Tj
+T*
+(| Nike Air Zoom Pegasus 39 \(Men 10\) | Fashion | $55 | Used - Good | Lightweight running shoes,) Tj
+T*
+(clean condition. | Active |) Tj
+T*
+(| Samsung 50" 4K Smart TV | Electronics | $300 | Used - Good | UHD TV with remote, great) Tj
+T*
+(picture quality. | Pending |) Tj
+T*
+(| Keurig K-Classic Coffee Maker | Home Appliances | $45 | Used - Fair | Single-serve coffee) Tj
+T*
+(maker, fully working. | Active |) Tj
+T*
+(| iPad 9th Gen 64GB Wi-Fi | Electronics | $240 | Used - Like New | Tablet in excellent) Tj
+T*
+(condition with charger. | Sold |) Tj
+T*
+(| Graco Convertible Car Seat | Baby & Kids | $85 | Used - Good | Adjustable seat for toddler to) Tj
+T*
+(booster stages. | Active |) Tj
+T*
+(| Coleman 4-Person Camping Tent | Sports & Outdoors | $60 | Used - Good | Waterproof tent,) Tj
+T*
+(includes carry bag and stakes. | Active |) Tj
+T*
+(| Ring Video Doorbell 3 | Smart Home | $75 | Used - Like New | Smart doorbell with motion) Tj
+T*
+(alerts and chime. | Active |) Tj
+T*
+(| Shark Navigator Lift-Away Vacuum | Home Appliances | $90 | Used - Good | Strong suction) Tj
+T*
+(vacuum for carpet and hard floors. | Pending |) Tj
+T*
+(| Guitar Starter Pack \(Acoustic\) | Musical Instruments | $100 | Used - Good | Acoustic guitar) Tj
+T*
+(with tuner, strap, and bag. | Active |) Tj
+T*
+() Tj
+T*
+(Bulk listing tasks are handled quickly and accurately by using standardized templates,) Tj
+T*
+(consistent field formatting, and a checklist-based review process. This approach minimizes) Tj
+T*
+(input errors, speeds up publishing, and keeps listing quality consistent across high-volume) Tj
+T*
+(uploads.) Tj
+T*
+() Tj
+T*
+(---) Tj
+T*
+() Tj
+T*
+(#5\) Sample Project 4: Listing Transfer Workflow) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 12 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 2028 >>
+stream
+BT
+/F1 11 Tf
+1 0 0 1 54 738 Tm
+15 TL
+(##Workflow for Transferring Listings Between Platforms) Tj
+T*
+(1. Open the source marketplace listing.) Tj
+T*
+(2. Copy product title, price, condition, and description.) Tj
+T*
+(3. Download or collect listing images.) Tj
+T*
+(4. Open the destination website CMS product form.) Tj
+T*
+(5. Paste product details into the correct fields.) Tj
+T*
+(6. Assign product category and relevant tags.) Tj
+T*
+(7. Upload and arrange images in display order.) Tj
+T*
+(8. Add SKU, inventory details, and listing status.) Tj
+T*
+(9. Publish or save as draft based on client preference.) Tj
+T*
+(10. Perform a final quality check for completeness and formatting.) Tj
+T*
+() Tj
+T*
+(This workflow ensures repeatable quality, faster turnaround, and consistent listing standards) Tj
+T*
+(across platforms.) Tj
+T*
+() Tj
+T*
+(---) Tj
+T*
+() Tj
+T*
+(#6\) Sample Project 5: Virtual Assistant Case Study) Tj
+T*
+() Tj
+T*
+(##Client Problem) Tj
+T*
+(A client needed a large number of Facebook Marketplace listings transferred to their website) Tj
+T*
+(but lacked the time and internal capacity to process entries consistently.) Tj
+T*
+() Tj
+T*
+(##Solution) Tj
+T*
+(As the assigned Virtual Assistant, I created a transfer tracker, grouped listings by category,) Tj
+T*
+(and applied a structured data entry template to ensure uniform formatting. Each listing was) Tj
+T*
+(reviewed before publishing to maintain data accuracy and brand consistency.) Tj
+T*
+() Tj
+T*
+(##Tasks Completed) Tj
+T*
+(- Data entry) Tj
+T*
+(- Listing transfer) Tj
+T*
+(- Product categorization) Tj
+T*
+(- Administrative support and progress reporting) Tj
+T*
+() Tj
+T*
+(##Results) Tj
+T*
+(The client saved significant administrative time, maintained an organized and searchable) Tj
+T*
+(product catalog, and improved listing consistency across sales channels. The structured process) Tj
+T*
+(also reduced revisions and made ongoing listing updates easier.) Tj
+T*
+() Tj
+T*
+(---) Tj
+T*
+() Tj
+T*
+(#7\) Tools Used) Tj
+T*
+() Tj
+T*
+(- Google Sheets) Tj
+T*
+(- Microsoft Excel) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 12 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 609 >>
+stream
+BT
+/F1 11 Tf
+1 0 0 1 54 738 Tm
+15 TL
+(- Web browsers \(Chrome/Firefox\)) Tj
+T*
+(- WordPress or e-commerce CMS platforms) Tj
+T*
+(- Communication tools \(email, live chat, project messaging apps\)) Tj
+T*
+() Tj
+T*
+(---) Tj
+T*
+() Tj
+T*
+(#8\) Conclusion) Tj
+T*
+() Tj
+T*
+(This portfolio demonstrates dependable Virtual Assistant support with strong data entry) Tj
+T*
+(accuracy, careful listing transfer, and reliable administrative execution. I bring detail-) Tj
+T*
+(oriented, organized, and client-focused support to help businesses keep their online listings) Tj
+T*
+(professional, complete, and up to date.) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 12 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R] /Count 5 >>
+endobj
+13 0 obj
+<< /Type /Catalog /Pages 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000002571 00000 n 
+0000002698 00000 n 
+0000005414 00000 n 
+0000005541 00000 n 
+0000008369 00000 n 
+0000008496 00000 n 
+0000010576 00000 n 
+0000010703 00000 n 
+0000011364 00000 n 
+0000011493 00000 n 
+0000011576 00000 n 
+trailer
+<< /Size 14 /Root 13 0 R >>
+startxref
+11627
+%%EOF
